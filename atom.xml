@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Block的随笔]]></title>
-  <link href="http://blockdate.github.io/atom.xml" rel="self"/>
-  <link href="http://blockdate.github.io/"/>
-  <updated>2014-12-23T17:49:51+08:00</updated>
-  <id>http://blockdate.github.io/</id>
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-08-12T23:54:02+08:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[w.leo]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
